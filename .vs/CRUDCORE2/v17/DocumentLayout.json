@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\recursos\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\recursos\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\models\\dbpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\models\\dbpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\crudcore2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\crudcore2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\views\\home\\empleado_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\views\\home\\empleado_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\models\\viewmodels\\empleadovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\models\\viewmodels\\empleadovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\models\\dbcrudcore2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\models\\dbcrudcore2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|c:\\users\\cviel\\onedrive\\escritorio\\crudcore2\\crudcore2\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5CECA-A38D-4AEB-8270-0FB6E14797E2}|CRUDCORE2\\CRUDCORE2.csproj|solutionrelative:crudcore2\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDCORE2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwGAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:50:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUDCORE2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T00:06:06.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDCORE2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T15:42:21.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Servicios\\Contrato\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Servicios\\Contrato\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Servicios\\Contrato\\IUsuarioService.cs",
+              "RelativeToolTip": "CRUDCORE2\\Servicios\\Contrato\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:31:49.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Servicios\\Implementacion\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Servicios\\Implementacion\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Servicios\\Implementacion\\UsuarioService.cs",
+              "RelativeToolTip": "CRUDCORE2\\Servicios\\Implementacion\\UsuarioService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:52:13.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Recursos\\Utilidades.cs",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Recursos\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Recursos\\Utilidades.cs",
+              "RelativeToolTip": "CRUDCORE2\\Recursos\\Utilidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:06:14.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "CRUDCORE2\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:30:21.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Views\\Inicio\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeToolTip": "CRUDCORE2\\Views\\Inicio\\Registrarse.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T15:41:00.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Program.cs",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Program.cs",
+              "RelativeToolTip": "CRUDCORE2\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:43:59.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDCORE2\\appsettings.json",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\appsettings.json",
+              "RelativeToolTip": "CRUDCORE2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T18:39:21.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbpruebaContext.cs",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Models\\DbpruebaContext.cs",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Models\\DbpruebaContext.cs",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Models\\DbpruebaContext.cs",
+              "RelativeToolTip": "CRUDCORE2\\Models\\DbpruebaContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:38:07.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CRUDCORE2.csproj",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\CRUDCORE2.csproj",
+              "RelativeDocumentMoniker": "CRUDCORE2\\CRUDCORE2.csproj",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\CRUDCORE2.csproj",
+              "RelativeToolTip": "CRUDCORE2\\CRUDCORE2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T19:25:09.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeToolTip": "CRUDCORE2\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T15:47:18.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Empleado_Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Home\\Empleado_Detalle.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Views\\Home\\Empleado_Detalle.cshtml",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Home\\Empleado_Detalle.cshtml",
+              "RelativeToolTip": "CRUDCORE2\\Views\\Home\\Empleado_Detalle.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T15:10:00.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmpleadoVM.cs",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Models\\ViewModels\\EmpleadoVM.cs",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Models\\ViewModels\\EmpleadoVM.cs",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Models\\ViewModels\\EmpleadoVM.cs",
+              "RelativeToolTip": "CRUDCORE2\\Models\\ViewModels\\EmpleadoVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:15:27.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Home\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Views\\Home\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Views\\Home\\Eliminar.cshtml",
+              "RelativeToolTip": "CRUDCORE2\\Views\\Home\\Eliminar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T19:15:20.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Models\\Empleado.cs",
+              "RelativeToolTip": "CRUDCORE2\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:46:16.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dbcrudcore2Context.cs",
+              "DocumentMoniker": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Models\\Dbcrudcore2Context.cs",
+              "RelativeDocumentMoniker": "CRUDCORE2\\Models\\Dbcrudcore2Context.cs",
+              "ToolTip": "C:\\Users\\cviel\\OneDrive\\Escritorio\\CRUDCORE2\\CRUDCORE2\\Models\\Dbcrudcore2Context.cs",
+              "RelativeToolTip": "CRUDCORE2\\Models\\Dbcrudcore2Context.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:31:10.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
